@@ -1,0 +1,61 @@
+{
+    "ipad": {
+        "color": {
+            "gray": {
+                "name": "太空灰色",
+                "network": {
+                    "wifi": {
+                        "storage": "64GB"
+                    },
+                    "cellular": {
+                        "storage": "256GB"
+                    }
+                }
+            },
+            "rose": {
+                "name": "玫瑰紅",
+                "network": {
+                    "wifi": {
+                        "storage": "64GB"
+                    },
+                    "cellular": {
+                        "storage": "256GB"
+                    }
+                }
+            },
+            "silver": {
+                "name": "銀色",
+                "network": {
+                    "wifi": {
+                        "storage": "64GB"
+                    },
+                    "cellular": {
+                        "storage": "256GB"
+                    }
+                }
+            },
+            "brown": {
+                "name": "玫瑰紅",
+                "network": {
+                    "wifi": {
+                        "storage": "64GB"
+                    },
+                    "cellular": {
+                        "storage": "256GB"
+                    }
+                }
+            },
+            "blue": {
+                "name": "天藍色",
+                "network": {
+                    "wifi": {
+                        "storage": "64GB"
+                    },
+                    "cellular": {
+                        "storage": "256GB"
+                    }
+                }
+            }
+        }
+    }
+}
