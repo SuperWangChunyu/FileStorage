@@ -1,4 +1,4 @@
-[
+{
    ipad1:["id":"A001","color":"太空灰色","storage":"64GB","network":"Wi-Fi","price":18900,"picture":"gray.png"],
    ipad2:["id":"A002","color":"銀色","storage":"64GB","network":"Wi-Fi","price":18900,"picture":"silver.png"],
    ipad3:["id":"A003","color":"玫瑰金色","storage":"64GB","network":"Wi-Fi","price":18900,"picture":"rose.png"],
@@ -19,4 +19,4 @@
    ipad18:["id":"A0018","color":"玫瑰金色","storage":"256GB","network":"cellular","price":28200,"picture":"rose.png"],
    ipad19:["id":"A0019","color":"綠色","storage":"256GB","network":"cellular","price":28200,"picture":"green.png"],
    ipad20:["id":"A0020","color":"天藍色","storage":"256GB","network":"cellular","price":28200,"picture":"blue.png"]   
-]
+}
